@@ -7,42 +7,42 @@
 三线表是《撰写手册》推荐使用的格式，如表~\ref{tab:exampletable}。
 
 \begin{table}
-  \centering
-  \bicaption{表号和表题在表的正上方}{The English caption}
-  \label{tab:exampletable}
-  \begin{tabular}{cl}
-    \toprule
-    类型   & 描述                                       \\
-    \midrule
-    挂线表 & 挂线表也称系统表、组织表，用于表现系统结构 \\
-    无线表 & 无线表一般用于设备配置单、技术参数列表等   \\
-    卡线表 & 卡线表有完全表，不完全表和三线表三种       \\
-    \bottomrule
-  \end{tabular}
+	\centering
+	\bicaption{表号和表题在表的正上方}{The English caption}
+	\label{tab:exampletable}
+	\begin{tabular}{cl}
+		\toprule
+		类型   & 描述                                       \\
+		\midrule
+		挂线表 & 挂线表也称系统表、组织表，用于表现系统结构 \\
+		无线表 & 无线表一般用于设备配置单、技术参数列表等   \\
+		卡线表 & 卡线表有完全表，不完全表和三线表三种       \\
+		\bottomrule
+	\end{tabular}
 \end{table}
 
 如果有表注，推荐使用 \pkg{threeparttable}。这样可以与表格对齐，满足部分评审老师的要求。
 
 \begin{table}
-  \centering
-  \begin{threeparttable}
-    \caption{带表注的表格}
-    \label{tab:tablewithnotes}
-    \begin{tabular}{cl}
-      \toprule
-      类型   & 描述                                       \\
-      \midrule
-      挂线表 & 挂线表也称系统表、组织表，用于表现系统结构 \\
-      无线表 & 无线表一般用于设备配置单、技术参数列表等   \\
-      卡线表 & 卡线表有完全表，不完全表和三线表三种       \\
-      \bottomrule
-    \end{tabular}
-    \begin{tablenotes}[flushleft]
-      \item 注：表注分两种，第一种是对全表的注释，用不加阿拉伯数字排在表的下边，
-      前面加“注：”；第二种是和表内的某处文字或数字相呼应的注，
-      在表里面用带圈的阿拉伯数字在右上角标出，然后在表下面用同样的圈码注出来
-    \end{tablenotes}
-  \end{threeparttable}
+	\centering
+	\begin{threeparttable}
+		\caption{带表注的表格}
+		\label{tab:tablewithnotes}
+		\begin{tabular}{cl}
+			\toprule
+			类型   & 描述                                       \\
+			\midrule
+			挂线表 & 挂线表也称系统表、组织表，用于表现系统结构 \\
+			无线表 & 无线表一般用于设备配置单、技术参数列表等   \\
+			卡线表 & 卡线表有完全表，不完全表和三线表三种       \\
+			\bottomrule
+		\end{tabular}
+		\begin{tablenotes}[flushleft]
+			\item 注：表注分两种，第一种是对全表的注释，用不加阿拉伯数字排在表的下边，
+			前面加“注：”；第二种是和表内的某处文字或数字相呼应的注，
+			在表里面用带圈的阿拉伯数字在右上角标出，然后在表下面用同样的圈码注出来
+		\end{tablenotes}
+	\end{threeparttable}
 \end{table}
 
 编制表格应简单明了，表达一致，明晰易懂，表文呼应、内容一致。
@@ -60,7 +60,7 @@
 
 \begin{figure}[ht]
   \centering
-  \includegraphics[width=0.3\textwidth]{ustc-badge.pdf}
+  \includegraphics[width=0.3\textwidth]{haust-badge.pdf}
   \bicaption{图号、图题置于图的下方}{The English caption}
   \label{fig:badge}
   \figurenote{若有图注，图注置于图题下方。

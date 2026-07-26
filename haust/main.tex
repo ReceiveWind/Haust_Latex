@@ -6,11 +6,11 @@
 % 学术、专业封面不一样
 
 % 博士用这个
-\documentclass[degree=doctor,degree-type = academic,fontset=windows]{ustcthesis}
+\documentclass[degree=doctor,degree-type=academic,openright,fontset=windows]{ustcthesis}
 % 学硕用这个
-%\documentclass[degree=master,degree-type = academic,fontset=windows]{ustcthesis}
+%\documentclass[degree=master,degree-type=academic,openright,fontset=windows]{ustcthesis}
 % 专硕用这个
-%\documentclass[degree=master,degree-type=professional,fontset=windows]{ustcthesis}
+%\documentclass[degree=master,degree-type=professional,openright,fontset=windows]{ustcthesis}
 
 % degree      = doctor | master | bachelor
 % degree-type = academic | professional | engineering
@@ -27,7 +27,7 @@
 
 \maketitle
 
-% 封面之后：禁止双面“开右页”插空白页
+% 封面之后：禁止插入空白页，关闭正文章节首页在奇数页
 \let\cleardoublepage\clearpage
 
 %\copyrightpage
@@ -57,7 +57,7 @@ pagecommand={\thispagestyle{empty}}
 % \printbibliography       % 参考文献使用 BibLaTeX 编译
 
 \appendix
-\include{chapters/complementary}
+%\include{chapters/complementary}
 
 \backmatter
 \include{chapters/acknowledgements}

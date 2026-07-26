@@ -12,14 +12,14 @@
   udc             = {\hspace{6em}},
   serial-number   = {\hspace{6em}},
   degree-category  = {工学博士},
-  degree-category* = {Master of Engineering},
+  degree-category* = {Doctor of Engineering},
   % 专业学位填写（可留空）
   co-supervisor    = {},
   professional-field  = {},
   professional-field* = {},
   speciality      = {控制科学与工程},
   sub-speciality  = {系统工程},
-  supervisor      = {XXX~教授},
+  supervisor      = {XXX\hspace{1em}教授},
   % ===== 河科大摘要字段（可按需填写） =====
 %  thesis-type     = {应用研究},
 %  thesis-type*    = {Applied research},
@@ -33,7 +33,7 @@
 
 % ===== 封面成文时间（手动填写到“月”）=====
 % 示例：\coverdate{2024 年 12 月}
-\coverdate{2026 年 1 月}
+\coverdate{2026 年 01 月}
 
 
 % 加载宏包
@@ -46,6 +46,9 @@
 
 % 英文图题、表题
 \usepackage{bicaption}
+
+% 分图
+\usepackage{subcaption}
 
 % 三线表
 \usepackage{booktabs}
@@ -62,8 +65,10 @@
 % SI 量和单位
 \usepackage{siunitx}
 
-% 参考文献使用 BibTeX + natbib 宏包
-% 顺序编码制
+  % 参考文献使用 BibTeX + natbib 宏包。
+  % 当前样式按 GB/T 7714—2005 顺序编码制著录。
+  % 拼音姓名建议写成 `Qian, Xuesen`，输出为 `Qian Xuesen`；
+  % 如需缩写，可写成 `Qian, {XS}`，输出为 `Qian XS`。
 \usepackage[sort]{natbib}
 \bibliographystyle{ustcthesis-numerical}
 
@@ -108,5 +113,3 @@
 
 % hyperref 宏包在最后调用
 \usepackage{hyperref}
-
-

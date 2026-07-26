@@ -12,24 +12,24 @@
 \fi
 
 \bibitem[Knuth(1986)]{knuth86a}
-Knuth D~E.
-\newblock Computers and typesetting: the {\TeX}book\allowbreak[M].
+Knuth Donald~E.
+\newblock Computers and typesetting: A\ the {\TeX}book\allowbreak[M].
 \newblock Reading, MA, USA: Addison-Wesley, 1986.
 
 \bibitem[Mittelbach et~al.(2004)Mittelbach, Goossens, Braams, and
   Carlisle]{tlc2}
-Mittelbach F, Goossens M, Braams J, et~al.
+Mittelbach Frank, Goossens Michel, Braams Johannes, et~al.
 \newblock The {\LaTeX} companion\allowbreak[M].
 \newblock 2nd ed.
 \newblock Reading, MA, USA: Addison-Wesley, 2004.
 
 \bibitem[Knuth(1984)]{knuth84}
-Knuth D~E.
+Knuth Donald~E.
 \newblock Literate programming\allowbreak[J].
 \newblock The Computer Journal, 1984, 27\allowbreak (2): 97-111.
 
 \bibitem[Lamport(1994)]{lamport94}
-Lamport L.
+Lamport Leslie.
 \newblock {\LaTeX}: a document preparation system\allowbreak[M].
 \newblock 2nd ed.
 \newblock Reading, MA, USA: Addison-Wesley, 1994.
@@ -53,14 +53,14 @@ Lamport L.
 \newblock 合肥: 中国科学技术大学出版社, 2014.
 
 \bibitem[Crawford et~al.(1995)Crawford and Gorman]{crawford1995future}
-Crawford W, Gorman M.
-\newblock Future libraries: dreams, madness, \& reality\allowbreak[M].
+Crawford Walt, Gorman Michael.
+\newblock Future libraries: Dreams, madness, \& reality\allowbreak[M].
 \newblock Chicago: American Library Association, 1995.
 
 \bibitem[{International Federation of Library Association and
   Institutions}(1977)]{ifla1977names}
 {International Federation of Library Association and Institutions}.
-\newblock Names of persons: national usage for entry in
+\newblock Names of persons: National usage for entry in
   catalogues\allowbreak[M].
 \newblock 3rd ed.
 \newblock London: IFLA Internation Office for UBC, 1977.
@@ -82,9 +82,9 @@ Crawford W, Gorman M.
 \newblock 天津: 天津科学技术出版社, 1980: 56-114.
 
 \bibitem[Buseck et~al.(1980)Buseck, Nord, and Veblen]{buseck2018subsolidus}
-Buseck P~R, Nord G~L, Jr., Veblen D~R.
+Buseck Peter~R, Nord Gordon~L, Jr., Veblen David~R.
 \newblock Subsolidus phenomena in pyroxenes\allowbreak[M]//\allowbreak
-Prewitt C~T.
+Prewitt Charles~T.
 \newblock Pyroxenes.
 \newblock Washington, D.C.: Mineralogical Society of America, 1980: 117-212.
 
@@ -118,13 +118,13 @@ American Society of Mechanical Engineers．Applied Mechanics
 
 \bibitem[Des~Marais et~al.(1992)Des~Marais, Strauss, Summons,
   et~al.]{desmarais1992carbon}
-Des~Marais D~J, Strauss H, Summons R~E, et~al.
+Des~Marais David~J, Strauss H, Summons R~E, et~al.
 \newblock Carbon isotope evidence for the stepwise oxidation of the proterozoic
   environment\allowbreak[J].
 \newblock Nature, 1992, 359: 605-609.
 
-\bibitem[HEWITT(1984)]{hewitt1984technical}
-HEWITT J~A.
+\bibitem[Hewitt(1984)]{hewitt1984technical}
+Hewitt Joe~A.
 \newblock Technical services in 1983\allowbreak[J].
 \newblock Library Resource Services, 1984.
 
@@ -135,7 +135,7 @@ HEWITT J~A.
 
 \bibitem[姜锡洲(1989)]{jiangxizhou1989waifu}
 姜锡洲.
-\newblock 一种温热外敷药制备方案: 88105607.3\allowbreak[P].
+\newblock 一种温热外敷药制备方案: 中国, 88105607.3\allowbreak[P].
 \newblock 1989-07-26.
 
 \bibitem[万锦坤(1996)]{wanjinkun1996wenzhai}
@@ -145,8 +145,8 @@ HEWITT J~A.
 \newblock 北京: 中国大百科全书出版社, 1996.
 
 \bibitem[Mlot(1998)]{christine1998plant}
-Mlot C.
-\newblock Plant physiology: plant biology in the {Genome Era}\allowbreak[J].
+Mlot Christine.
+\newblock Plant physiology: Plant biology in the {Genome Era}\allowbreak[J].
 \newblock Science, 1998, 281: 331-332.
 
 \bibitem[孙玉文(2000)]{sunyuwen2000hanyu}
@@ -155,7 +155,7 @@ Mlot C.
 \newblock 北京: 北京大学, 2000.
 
 \bibitem[Cairns(1965)]{cairns1965infrared}
-Cairns B~R.
+Cairns Bruce~Richard.
 \newblock Infrared spectroscopic studies of solid oxygen\allowbreak[D].
 \newblock Berkeley: Univ. of California, 1965.
 
@@ -165,7 +165,7 @@ Cairns B~R.
 \newblock 天津, 1990.
 
 \bibitem[Rosenthall(1963)]{rosenthall1963mathematical}
-Rosenthall E~M.
+Rosenthall Edward~M.
 \newblock Proceedings of the {Fifth Canadian Mathematical Congress},
   {University of Montreal}, 1961\allowbreak[C].
 \newblock Toronto: University of Toronto Press, 1963.
@@ -193,24 +193,31 @@ Baker S~K, Jackson M~E.
 
 \bibitem[刘文富\ 等(2000)刘文富 and 顾丽梅]{ustc-bachelor:01}
 刘文富, 顾丽梅.
-\newblock 网络时代经济发展战略特征\allowbreak[J].
+\newblock 网络时代经济发展战略特征\allowbreak[J/OL].
 \newblock 学术研究, 2000, 21\allowbreak (4): 35-40.
+\newblock
+  \url{https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKgchrJ08w1e79zTD32bjb4xSTlZqRyr7rTIf7ok1AFpatLUPx8UT1OWFBNkw65sK7Uwjbq66SQOt&uniplatform=NZKPT}.
 
 \bibitem[肖渡\ 等(2000)肖渡, 沈群红, 张芸, and
   胡汉辉]{ustc-bachelor:02}
 肖渡, 沈群红, 张芸, 等.
-\newblock 知识时代的企业合作经营\allowbreak[M].
+\newblock 知识时代的企业合作经营\allowbreak[M/OL].
 \newblock 北京: 北京大学出版社, 2000: 67-69.
+\newblock \url{https://book.douban.com/subject/1632549/}.
 
 \bibitem[{The White House}(1993)]{ustc-bachelor:03}
 {The White House}.
-\newblock Technology for economic growth\allowbreak[R].
+\newblock Technology for economic growth\allowbreak[R/OL].
 \newblock Washington, 1993.
+\newblock
+  \url{https://clintonwhitehouse6.archives.gov/1993/11/1993-11-04-technology-for-economic-growth-table-of-contents.html}.
 
 \bibitem[Hutson(1992)]{ustc-bachelor:04}
-Hutson J~M.
+Hutson Jeremy~M.
 \newblock Vibrational dependence of the anisotropic intermolecular potential of
-  argon-hydrogen chloride\allowbreak[J].
-\newblock J. Phys. Chem., 1992, 96\allowbreak (11): 4237-4247.
+  argon-hydrogen chloride\allowbreak[J/OL].
+\newblock J. Phys. Chem., 1992, 96\allowbreak (11):
+  4237-4247\allowbreak[2023-05-31].
+\newblock \url{https://doi.org/10.1021/j100190a026}.
 
 \end{thebibliography}
