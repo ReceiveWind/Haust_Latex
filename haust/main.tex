@@ -40,13 +40,16 @@ pagecommand={\thispagestyle{empty}}
 % 河科大规范中不要求单独的“创新性说明”章节。
 % 如学院/导师有额外要求，可取消下一行注释。
 % \include{chapters/innovations}
+% 摘要
 \include{chapters/abstract}
+% 目录
 \tableofcontents
 % \listoffigures
 % \listoftables
 %\listoffiguresandtables
 % \include{chapters/notation}
 
+% 正文
 \mainmatter
 \include{chapters/intro}
 \include{chapters/floats}
@@ -56,9 +59,11 @@ pagecommand={\thispagestyle{empty}}
 \bibliography{bib/reference}  % 参考文献使用 BibTeX 编译
 % \printbibliography       % 参考文献使用 BibLaTeX 编译
 
+% 附录，多数人不用就注释掉了
 \appendix
 %\include{chapters/complementary}
 
+% 致谢和成果
 \backmatter
 \include{chapters/acknowledgements}
 \include{chapters/achievements}

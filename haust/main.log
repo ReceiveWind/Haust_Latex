@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.2.7)  26 JUL 2026 09:52
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.2.7)  5 AUG 2026 10:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -592,8 +592,8 @@ Package: l3keys2e 2024-08-16 LaTeX2e option processing using LaTeX3 keys
 
 (d:/green/texlive2025/2025/texmf-dist/tex/latex/unicode-math/unicode-math-table
 .tex)))
-LaTeX Info: Redefining \boldsymbol on input line 31.
-LaTeX Info: Redefining \mathellipsis on input line 31.
+LaTeX Info: Redefining \boldsymbol on input line 26.
+LaTeX Info: Redefining \mathellipsis on input line 26.
 
 Package fontspec Info: 
 (fontspec)             XITSMath-Regular scale = 0.9939221106800818.
@@ -617,7 +617,7 @@ Package fontspec Info:
 pt=math;language=dflt;+ss08;"
 
 LaTeX Font Info:    Font shape `TU/XITSMath-Regular(0)/m/n' will be
-(Font)              scaled to size 11.97185pt on input line 31.
+(Font)              scaled to size 11.97185pt on input line 26.
 
 Package fontspec Info: 
 (fontspec)             XITSMath-Regular scale = 0.9939221106800818.
@@ -654,17 +654,17 @@ cript}},Extension={.otf},Scale={MatchLowercase},StylisticSet={8}].
 08;+ssty=1;"
 
 LaTeX Font Info:    Font shape `TU/XITSMath-Regular(1)/m/n' will be
-(Font)              scaled to size 11.97185pt on input line 31.
+(Font)              scaled to size 11.97185pt on input line 26.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 31.
+(Font)              `operators' in the math version `normal' on input line 26.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> TU/XITSMath-Regular(1)/m/n on input lin
-e 31.
+e 26.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 31.
+(Font)              `operators' in the math version `bold' on input line 26.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/XITSMath-Regular(1)/b/n on input li
-ne 31.
+ne 26.
 
 Package fontspec Info: 
 (fontspec)             XITSMath-Regular scale = 0.9939221106800818.
@@ -728,15 +728,15 @@ cript}},Extension={.otf},Scale={MatchLowercase},StylisticSet={8},ScaleAgain=1.0
 08;+ssty=1;"
 
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `normal' on input line 31.
+(Font)              `symbols' in the math version `normal' on input line 26.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
 (Font)                  OMS/cmsy/m/n --> TU/XITSMath-Regular(2)/m/n on input li
-ne 31.
+ne 26.
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `bold' on input line 31.
+(Font)              `symbols' in the math version `bold' on input line 26.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
 (Font)                  OMS/cmsy/b/n --> TU/XITSMath-Regular(2)/b/n on input li
-ne 31.
+ne 26.
 
 Package fontspec Info: 
 (fontspec)             XITSMath-Regular scale = 0.9939221106800818.
@@ -794,17 +794,17 @@ cript}},Extension={.otf},Scale={MatchLowercase},StylisticSet={8},ScaleAgain=0.9
 08;+ssty=1;"
 
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `normal' on input line 3
-1.
+(Font)              `largesymbols' in the math version `normal' on input line 2
+6.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
 (Font)                  OMX/cmex/m/n --> TU/XITSMath-Regular(3)/m/n on input li
-ne 31.
+ne 26.
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 31.
+(Font)              `largesymbols' in the math version `bold' on input line 26.
 
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/cmex/m/n --> TU/XITSMath-Regular(3)/b/n on input li
-ne 31.
+ne 26.
 
 Package fontspec Info: 
 (fontspec)             STIXTwoMath-Regular scale = 0.9455913310371796.
@@ -841,14 +841,14 @@ STIXTwoMath-Regular.otf]/OT:script=math;language=dflt;+ssty=0;"<-8.130375>s*[0.
 1;"
 
 LaTeX Font Info:    Font shape `TU/STIXTwoMath-Regular(0)/m/n' will be
-(Font)              scaled to size 11.38959pt on input line 31.
+(Font)              scaled to size 11.38959pt on input line 26.
 \sym__um_fam1=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `__um_fam1' in version `normal'
 (Font)                  TU/STIXTwoMath-Regular(0)/m/n --> TU/STIXTwoMath-Regula
-r(0)/m/n on input line 31.
+r(0)/m/n on input line 26.
 LaTeX Font Info:    Overwriting symbol font `__um_fam1' in version `bold'
 (Font)                  TU/STIXTwoMath-Regular(0)/m/n --> TU/STIXTwoMath-Regula
-r(0)/b/n on input line 31.
+r(0)/b/n on input line 26.
  (d:/green/texlive2025/2025/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
 \thm@style=\toks27
@@ -1759,7 +1759,7 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 Here is how much of TeX's memory you used:
  31497 strings out of 473832
  693437 string characters out of 5733159
- 1157919 words of memory out of 5000000
+ 1157895 words of memory out of 5000000
  54035 multiletter control sequences out of 15000+600000
  567514 words of font info for 184 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
