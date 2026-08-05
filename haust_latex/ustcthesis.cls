@@ -2855,7 +2855,7 @@
     % 用零宽 kern 阻止 XeCJK 在“图”和数字之间自动插入间距。
     #1\kern0pt#2%
   \else
-    #1\hspace{1em}#2%
+    #1\space#2%
   \fi
 }
 \newcommand\ustc@format@table@label[2]{%
@@ -2863,7 +2863,7 @@
     % 用零宽 kern 阻止 XeCJK 在“表”和数字之间自动插入间距。
     #1\kern0pt#2%
   \else
-    #1\hspace{1em}#2%
+    #1\space#2%
   \fi
 }
 
@@ -3033,7 +3033,7 @@
 \DeclareCaptionLabelFormat{haust-table}{%
   \ustc@format@table@label{#1}{#2}%
 }
-\DeclareCaptionLabelSeparator{haust-space}{\hspace{1em}}
+\DeclareCaptionLabelSeparator{haust-space}{\space}
 \newcommand\ustc@caption@font{%
   \ifustc@degree@bachelor
     \fontsize{12bp}{22bp}\selectfont
